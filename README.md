@@ -1,6 +1,8 @@
 ## Linux school application
 Some cool animation from Lottie :smile:
-![Lottie](https://www.google.com/url?sa=i&url=https%3A%2F%2F72mena.com%2Fa-change-in-motion%2F&psig=AOvVaw1qeKXDy2begkfRKCQ0j4zu&ust=1592444718941000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj92YHdh-oCFQAAAAAdAAAAABAN)
+![Lottie](https://72mena.com/static/lottie-3eac31889c83494d16f358a6c3cb2284.jpeg)
+
+### Under Construction :construction:
 
 
 
