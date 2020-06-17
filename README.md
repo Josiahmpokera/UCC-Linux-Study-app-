@@ -1,6 +1,6 @@
-# linuxschool
+# Linux school application
 
-A new Flutter application.
+A Flutter application.
 
 ## Getting Started
 
