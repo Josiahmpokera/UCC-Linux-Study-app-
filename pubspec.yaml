@@ -56,6 +56,7 @@ flutter:
      - assets/ubuntu.png
      - assets/console.png
      - assets/background.png
+     - assets/code.gif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

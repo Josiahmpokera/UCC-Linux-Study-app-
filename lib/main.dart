@@ -148,13 +148,20 @@ class _MainContainerState extends State<MainContainer> {
               width: double.infinity,
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(5),
-                color: LinuxAdvanced,
+                color: Colors.white,
+                boxShadow: [
+                  BoxShadow(
+                    offset: Offset(1, 2),
+                    color: Colors.black26,
+                    blurRadius: 9,
+                  ),
+                ]
               ),
               child: Row(
                 children: <Widget>[
                   //The Linux Picture here
                   Container(
-                    child: Image.asset('assets/linux_big.png'),
+                    child: Image.asset('assets/code.gif'),
                     width: MediaQuery.of(context).size.width / 4,
                   ),
 
@@ -168,13 +175,13 @@ class _MainContainerState extends State<MainContainer> {
                           ),
                         ),
                         RaisedButton(
-                          color: Colors.white,
+                          color: Colors.orange,
                           onPressed: (){},
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
                             child: Row(
                               children: <Widget>[
-                                Text("Get started", style: TextStyle(fontWeight: FontWeight.w400),),
+                                Text("Get started", style: TextStyle(fontWeight: FontWeight.w400, color: Colors.white),),
                                 SizedBox(
                                   width: 10,
                                 ),
