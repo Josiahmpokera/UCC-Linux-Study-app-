@@ -95,7 +95,7 @@ class _MainContainerState extends State<MainContainer> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
                             Image.asset('assets/introduction.png', height: 50,),
-                            Text("Introduction")
+                            Text("Introduction"),
                           ],
                         ),
                       ),
