@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:linuxschool/question/question_screen.dart';
 import 'package:linuxschool/screen/about.dart';
+import 'advanced/advance.dart';
 import 'color.dart';
 import './screen/intro.dart';
 import './screen/basic.dart';
@@ -119,21 +121,24 @@ class _MainContainerState extends State<MainContainer> {
                         ),
                       ),
                     ),
-                    Container(
-                      width: MediaQuery.of(context).size.width / 4,
-                      height: 90,
-                      decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(5),
-                        color: Colors.grey[200],
+                    GestureDetector(
+                      onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context) => QuestionScreen())),
+                      child: Container(
+                        width: MediaQuery.of(context).size.width / 4,
+                        height: 90,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(5),
+                          color: Colors.grey[200],
+                        ),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: <Widget>[
+                            Image.asset('assets/start.png', height: 50,),
+                            Text("Start (Quiz)")
+                          ],
+                        ),
+                        margin: EdgeInsets.all(08),
                       ),
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: <Widget>[
-                          Image.asset('assets/start.png', height: 50,),
-                          Text("Start")
-                        ],
-                      ),
-                      margin: EdgeInsets.all(08),
                     ),
                   ],
                 ),
@@ -176,7 +181,9 @@ class _MainContainerState extends State<MainContainer> {
                         ),
                         RaisedButton(
                           color: Colors.orange,
-                          onPressed: (){},
+                          onPressed: (){
+                            Navigator.push(context, MaterialPageRoute(builder: (context) => Advance()));
+                          },
                           child: Padding(
                             padding: const EdgeInsets.all(8.0),
                             child: Row(

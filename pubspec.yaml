@@ -57,6 +57,8 @@ flutter:
      - assets/console.png
      - assets/background.png
      - assets/code.gif
+     - assets/advanced/back.png
+     - assets/advanced/redhat.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -69,16 +71,20 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  fonts:
+     - family: AGENCYR
+       fonts:
+         - asset: fonts/AGENCYR.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
-  #   - family: Trajan Pro
+  #   - family: Roboto
   #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
+  #       - asset: fonts/Roboto-Black.ttf
+  #       - asset: fonts/Roboto-BlackItalic.ttf
+  #       - asset: fonts/Roboto-Bold.tff
+  #       - asset: fonts/Roboto-Light.tff
+  #       - asset: fonts/Roboto-Medium.tff
+  #       - asset: fonts/Roboto-Thin.tff
   #         weight: 700
   #
   # For details regarding fonts from package dependencies,
