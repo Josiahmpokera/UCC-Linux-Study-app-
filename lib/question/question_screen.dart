@@ -17,6 +17,9 @@ class _QuestionScreenState extends State<QuestionScreen> {
    setState(() {
      _question = _question + 1;
    });
+   if(_question < questions.length) {
+    print("We have more questions!");
+   }
   }
 
   @override
@@ -30,7 +33,8 @@ class _QuestionScreenState extends State<QuestionScreen> {
         title: Text("Linux Question"),
       ),
       body: Center(
-        child: Column(
+        child: _question < questions.length ?
+        Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Container(
@@ -55,6 +59,8 @@ class _QuestionScreenState extends State<QuestionScreen> {
               ],
             ),
           ],
+        ) : Center(
+          child: Text("You did it"),
         ),
       ),
     );

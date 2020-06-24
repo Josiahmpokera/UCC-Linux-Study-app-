@@ -1,7 +1,7 @@
 //List of Question should be located at here
  import 'package:flutter/material.dart';
 
-var questions = [
+const questions = [
 
   {
   'qn': 'What\'s the command to display the calendar in the Linux Operating system?',
