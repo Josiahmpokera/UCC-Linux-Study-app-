@@ -33,7 +33,11 @@ class AboutContainer extends StatelessWidget {
         ),
       ),
       child: Center(
-        child: Column(),
+        child: Column(
+          children: <Widget>[
+            Text("Josiah")
+          ],
+        ),
       ),
     );
   }
