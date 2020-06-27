@@ -1,6 +1,6 @@
 ## Linux school application
 Some cool animation from Lottie :smile:
-![Lottie](https://72mena.com/static/lottie-3eac31889c83494d16f358a6c3cb2284.jpeg)
+![Lottie](https://assets9.lottiefiles.com/private_files/lf30_ZOuB83.json)
 
 # Under Construction :construction:
 
