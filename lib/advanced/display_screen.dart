@@ -21,9 +21,5 @@ class Display extends StatelessWidget {
 }
 
 
-//Princess Elena of Avalor...
-//Mr bean...
-//Sofia the first...
-//Moana //Frozzen
 
 

@@ -24,9 +24,255 @@ const questions = [
   },
 
   {
-  'qn': 'What\'s the command to display the calender in thw Ll=- Operating system?',
-  'answers': ['mkdir', 'dc', 'cal', 'echo'],
+  'qn': 'What\'s the Commands to used to copy files',
+  'answers': ['cp', 'mv', 'rm', 'ls'],
   },
+
+  {
+    'qn' : 'Command to move file or Directories ',
+    'answer' : ['rm', 'mv', 'cal', 'cp'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
+  {
+    'qn' : 'What\'s the commands to create the user in Linux Operating System? ',
+    'answer' : ['mkdir', 'rmdir', 'cal', 'echo'],
+  },
+
 
 
 ];
