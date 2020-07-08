@@ -2,7 +2,6 @@
 Some cool animation from Lottie :smile:
 
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
-![Lottie](https://assets9.lottiefiles.com/private_files/lf30_ZOuB83.json)
 
 # Under Construction :construction:
 
