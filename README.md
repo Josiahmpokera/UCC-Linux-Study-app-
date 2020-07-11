@@ -1,4 +1,4 @@
-## Linux school application
+## Android Application for School (Linux Learning Application)
 Some cool animation from Lottie :smile:
 
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
@@ -6,7 +6,7 @@ Some cool animation from Lottie :smile:
 # Under Construction :construction:
 
 
-
+**You can Start Create your own Flutter Application**
 ## Getting Started
 
 This project is a starting point for a Flutter application.
